@@ -1,2 +1,2 @@
-# prubas
+# pruebas
 prueba de git
